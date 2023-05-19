@@ -1,0 +1,5 @@
+PermitRootLogin no
+Port 4242
+AllowUsers sallorca
+PubkeyAuthentication yes
+MaxAuthTries 3
